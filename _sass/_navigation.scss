@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: #002A5C;
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -92,12 +92,12 @@
       }
 
       &.current {
-        color: #fff;
+        color: #002A5C;
         background: $primary-color;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: #002A5C;
         pointer-events: none;
         cursor: not-allowed;
       }
