@@ -86,7 +86,7 @@ author:
   location         : "University of Toronto"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=9U-Tqk8AAAAJ&hl"
   email            : "kaushar.mahetaji@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
