@@ -1,6 +1,5 @@
 ---
 permalink: /
-classes: wide
 title: "About"
 excerpt: "About"
 author_profile: true
