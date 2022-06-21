@@ -15,8 +15,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * **Mahetaji, K**. (2021) Reviewing Nils Christie’s If Schools Didn’t Exist: A Study in the Sociology of Schools. *Canadian Journal of Sociology*, 46(2), pp. 187–189. [https://journals.library.ualberta.ca/cjs/index.php/CJS/article/view/29819](https://journal\\s.library.ualberta.ca/cjs/index.php/CJS/article/view/29819)
 
 ### 2020
-
 * Acai, A., **Mahetaji, K**., Reid, S. E., & Sonnadara, R. R. (2020) The role of gender in the decision to pursue a surgical career: A qualitative, interview-based study. *Canadian Medical Education Journal*, 11(4), pp. e51–e61. [https://doi.org/10.36834/cmej.69292](https://doi.org/10.36834/cmej.69292)
+
+### 2018 
+D’Ercole, J., **Mahetaji, K**., Raufdeen, F., & Speedie, J. (2018) Climate Model Diversity: Future Predictions from the CMIP5 Multi-Model Ensemble. [https://macsphere.mcmaster.ca/handle/11375/25053}{http://hdl.handle.net/11375/25053](https://macsphere.mcmaster.ca/handle/11375/25053}{http://hdl.handle.net/11375/25053)
 
 {% if author.googlescholar %}
   
