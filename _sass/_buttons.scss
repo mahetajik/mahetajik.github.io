@@ -23,7 +23,7 @@
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: #002A5C;
   }
 
   .icon {
@@ -50,10 +50,10 @@
   &--inverse {
     color: $gray !important;
     border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    background-color: #002A5C;
 
     &:hover {
-      color: #fff !important;
+      color: #002A5C !important;
       border-color: $gray;
     }
   }
@@ -71,7 +71,7 @@
     background-color: $info-color;
 
     &:hover {
-      background-color: mix(#000, $info-color, 20%);
+      background-color: #002A5C;
     }
   }
 
