@@ -18,7 +18,7 @@
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
     font-size: $type-size-5;
-    text-align: right;
+    position:absolute;right:0;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
