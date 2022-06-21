@@ -16,7 +16,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding-left: -25em;
+    padding-left: -30em;
     font-family: $sans-serif-narrow;
     font-size: $type-size-5;
     font-color: #000000;
@@ -51,7 +51,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 10em;
+    padding-right: 2em;
     font-weight: 800;
     font-family: $sans-serif-narrow;
     font-size: $type-size-2;
