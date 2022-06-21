@@ -19,7 +19,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### 2018 
 * D’Ercole, J., **Mahetaji, K**., Raufdeen, F., & Speedie, J. (2018) Climate Model Diversity: Future Predictions from the CMIP5 Multi-Model Ensemble. [https://macsphere.mcmaster.ca/handle/11375/25053}{http://hdl.handle.net/11375/25053](https://macsphere.mcmaster.ca/handle/11375/25053}{http://hdl.handle.net/11375/25053)
-* Kates, M. & **Mahetaji, K**. (2018) *The Development of Gradualism by Ancient Greek Philosophers (Applications and Limitations of Actualism)*. In The History of the Earth, 8(1), pp. 24–29. [http://hdl.handle.net/11375/24818](http://hdl.handle.net/11375/24818)
+* Kates, M. & **Mahetaji, K**. (2018) The Development of Gradualism by Ancient Greek Philosophers (Applications and Limitations of Actualism). In *The History of the Earth*, 8(1), pp. 24–29. [http://hdl.handle.net/11375/24818](http://hdl.handle.net/11375/24818)
+* Karolodis, K., **Mahetaji, K**., Raufdeen, F., & Sakhi, T. (2018) Great Expectations: The
+Millennial and the Wine Label. In *Terroir*, pp. 117–132. [https://macsphere.mcmaster.ca/handle/11375/25414](http://hdl.handle.net/11375/25414)
 
 {% if author.googlescholar %}
   
