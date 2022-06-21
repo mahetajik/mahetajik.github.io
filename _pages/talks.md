@@ -11,5 +11,5 @@ author_profile: true
 * **Mahetaji, K**., Li, S., & Yang, A. (2022, Feb.) “LOD” the missing link: Gathering to completeness using knowledge syntheses in health sciences. Ontario Library Association Super Conference, Ontario, Canada (Virtual Event).
 
 ### 2021
-* Li, S., Mahetaji, K., & Yang, A. (2021, Dec.) Accessibility and UDL in Action: Assessing Articulate Rise 360. e-Learning in Libraries Symposium (Virtual Event). 
+* Li, S., **Mahetaji, K**., & Yang, A. (2021, Dec.) Accessibility and UDL in Action: Assessing Articulate Rise 360. e-Learning in Libraries Symposium (Virtual Event). 
 
