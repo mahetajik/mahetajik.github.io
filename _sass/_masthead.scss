@@ -16,7 +16,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0;
+    padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
     font-size: $type-size-5;
     font-color: #000000;
@@ -39,7 +39,7 @@
 
   ul {
     margin: 1em;
-    padding-right: 20em;
+    padding: 0em;
     clear: both;
     list-style-type: none;
   }
@@ -51,7 +51,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-left: 20em;
+    padding: 0em;
     font-weight: 800;
     font-family: $sans-serif-narrow;
     font-size: $type-size-2;
