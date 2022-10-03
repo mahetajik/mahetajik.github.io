@@ -17,5 +17,5 @@ I am a PhD student at the University of Toronto’s [Faculty of Information](htt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Platform Governance <br/>
 
 ### Education 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Master of Information, 2022 (University of Toronto) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Master of Information (Critical Information Policy Studies), 2022 (University of Toronto) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Honours Bachelor of Science in Integrated Science (Biochemistry), 2020 (McMaster University)<br/>
