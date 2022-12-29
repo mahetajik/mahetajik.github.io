@@ -7,8 +7,8 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=9U-Tqk8AAAAJ&hl).
 
-### Forthcoming 
-* Nieborg, D.B. & **Mahetaji, K**. Apps & Politics. *Encyclopedia of Technology & Politics*. Edward Elgar Publishing. 
+### 2022
+* Nieborg, D.B. & **Mahetaji, K**. (2022) Apps & Politics. *Encyclopedia of Technology & Politics*. Edward Elgar Publishing. 
 
 ### 2021 
 * Alexopoulos, M., Lyons, K., **Mahetaji, K**., & Keli, C. (2021) Evaluating the Disruption of COVID-19 on AI Innovation using Patent Filings. *2021 IEEE International Symposium on Technology and Society (ISTAS)*. [https://doi.org/10.1109/ISTAS52410.2021.9629125](https://doi.org/10.1109/ISTAS52410.2021.9629125)
